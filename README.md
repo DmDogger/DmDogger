@@ -23,7 +23,7 @@ Explore my projects →
 
 
 #### My contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dm_dogg) ![Messenger](https://img.shields.io/badge/Messenger-0866FF.svg?style=for-the-badge&logo=Messenger&logoColor=white) ![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dmdoggx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dmdoggx@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dm_dogg) ![Messenger](https://img.shields.io/badge/Messenger-0866FF.svg?style=for-the-badge&logo=Messenger&logoColor=white) ![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white) 
 
 
 
