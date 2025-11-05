@@ -1,6 +1,6 @@
 ## Hi there, my name is Dmitrii 👨🏽‍💻
 
-I specialize in **Python Backend Development**, architecting and building **FastAPI applications** with a focus on **Clean Architecture**, **OOP principles**, and the Service Layer model. My goal is to deliver high-performance, asynchronous solutions that ensure maximum testability and scalability
+I specialize in **Python Backend Development**, architecting and building **FastAPI applications** with a focus on **Clean Architecture**, **OOP principles**, and the Service Layer model
 
 Explore my projects → 
 [OMG!Place](https://github.com/DmDogger/OMG-Place) | [DeliveryTime](https://github.com)
