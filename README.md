@@ -3,7 +3,7 @@
 I specialize in **Python Backend Development**, architecting and building **FastAPI applications** with a focus on **Clean Architecture**, **OOP principles**, and the Service Layer model
 
 Explore my projects → 
-[OMG!Place](https://github.com/DmDogger/OMG-Place) | [SimpleLinker](https://simplelinker.cc) [(on GitHub)](https://github.com/DmDogger/SimpleLinker) | KinoSwap 
+[OMG!Place](https://github.com/DmDogger/OMG-Place) | [SimpleLinker](https://github.com/DmDogger/SimpleLinker) | [KinoSwap](https://github.com/DmDogger/kinoswap) 
 
 
 
