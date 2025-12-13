@@ -4,11 +4,23 @@ Python Backend Developer specializing in microservices architecture with FastAPI
 I build scalable systems using DDD, Clean Architecture, CQRS, and event-driven patterns
 Passionate about domain modeling, SOLID principles, and testable code
 
-#### Explore my projects ↘
-**[OMG!Place](https://github.com/DmDogger/OMG-Place):** A high-performance FastAPI backend API designed specifically for handling core functionalities of an e-commerce platform
-**[SimpleLinker](https://github.com/DmDogger/SimpleLinker)** A straightforward and efficient URL shortening service built with FastAPI to provide rapid link management capabilities
-**[KinoSwap](https://github.com/DmDogger/kinoswap)** A movie recommendation backend service, implementing a Tinder-like "swipe" logic, optimized for speed using FastAPI
-**CryptoAlert (Coming Soon):** An advanced cryptocurrency alert service planned for implementation using best practices such as DDD, EDA, SOLID, and a Microservices architecture.
+`root@DmDogger:~/projects $ tree`
+
+├── **[OMG!Place](https://github.com/DmDogger/OMG-Place)**
+│   └── `FastAPI` `E-commerce`
+│   └── *A high-performance FastAPI backend API designed specifically for handling core functionalities of an e-commerce platform*
+│
+├── **[SimpleLinker](https://github.com/DmDogger/SimpleLinker)**
+│   └── `FastAPI` `URL-Shortener`
+│   └── *A straightforward and efficient URL shortening service built with FastAPI to provide rapid link management capabilities*
+│
+├── **[KinoSwap](https://github.com/DmDogger/kinoswap)**
+│   └── `FastAPI` `Tinder-like`
+│   └── *A movie recommendation backend service, implementing a Tinder-like "swipe" logic, optimized for speed using FastAPI*
+│
+└── **CryptoAlert (Coming Soon)**
+    └── `DDD` `EDA` `Microservices`
+    └── *An advanced cryptocurrency alert service planned for implementation using best practices.*
 
 
 ### My tech stack ↓↓↓
