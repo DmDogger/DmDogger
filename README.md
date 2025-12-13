@@ -5,22 +5,25 @@ I build scalable systems using DDD, Clean Architecture, CQRS, and event-driven p
 Passionate about domain modeling, SOLID principles, and testable code
 
 `root@DmDogger:~/projects $ tree`
-
-├── **[OMG!Place](https://github.com/DmDogger/OMG-Place)**
-│   └── `FastAPI` `E-commerce`
-│   └── *A high-performance FastAPI backend API designed specifically for handling core functionalities of an e-commerce platform*
-│
-├── **[SimpleLinker](https://github.com/DmDogger/SimpleLinker)**
-│   └── `FastAPI` `URL-Shortener`
-│   └── *A straightforward and efficient URL shortening service built with FastAPI to provide rapid link management capabilities*
-│
-├── **[KinoSwap](https://github.com/DmDogger/kinoswap)**
-│   └── `FastAPI` `Tinder-like`
-│   └── *A movie recommendation backend service, implementing a Tinder-like "swipe" logic, optimized for speed using FastAPI*
-│
-└── **CryptoAlert (Coming Soon)**
-    └── `DDD` `EDA` `Microservices`
-    └── *An advanced cryptocurrency alert service planned for implementation using best practices.*
+<h3>Explore my projects ↘</h3>
+<code>root@DmDogger:~/projects $ tree</code>
+<br>
+.<br>
+├── <a href="https://github.com/DmDogger/OMG-Place"><b>OMG!Place</b></a><br>
+│&nbsp;&nbsp;&nbsp;└── <code>FastAPI</code> <code>E-commerce</code><br>
+│&nbsp;&nbsp;&nbsp;└── <i>A high-performance FastAPI backend API designed for e-commerce core functionalities</i>
+<br><br>
+├── <a href="https://github.com/DmDogger/SimpleLinker"><b>SimpleLinker</b></a><br>
+│&nbsp;&nbsp;&nbsp;└── <code>FastAPI</code> <code>URL-Shortener</code><br>
+│&nbsp;&nbsp;&nbsp;└── <i>A straightforward and efficient URL shortening service for rapid link management</i>
+<br><br>
+├── <a href="https://github.com/DmDogger/kinoswap"><b>KinoSwap</b></a><br>
+│&nbsp;&nbsp;&nbsp;└── <code>FastAPI</code> <code>Tinder-like</code><br>
+│&nbsp;&nbsp;&nbsp;└── <i>Movie recommendation backend implementing a Tinder-like "swipe" logic</i>
+<br><br>
+└── <b>CryptoAlert (Coming Soon)</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── <code>DDD</code> <code>EDA</code> <code>Microservices</code><br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── <i>Advanced crypto alert service using best practices (SOLID, Microservices)</i>
 
 
 ### My tech stack ↓↓↓
