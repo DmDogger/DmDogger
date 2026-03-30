@@ -16,6 +16,5 @@ Focused on building production-grade Python backends with a strong emphasis on M
 | 🔄 | [Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth, Faisal, Ong |
 | ⭐ | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert C. Martin |
 | ⭐ | [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson |
-| ⭐ | [Python Asyncio](https://www.oreilly.com/library/view/using-asyncio-in/9781492075325/) | Caleb Hattingh |
-
+| ⭐ | [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) | Matthew Fowler |
 
